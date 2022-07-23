@@ -377,3 +377,14 @@ Release-File: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/Releas
 ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
 UpgradeTool: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/main/dist-upgrader-all/current/impish.tar.gz
 UpgradeToolSignature: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/main/dist-upgrader-all/current/impish.tar.gz.gpg
+
+Dist: jammy
+Name: Jammy Jellyfish
+Version: 22.04 LTS
+Date: Thu, 21 April 2022 22:04:00 UTC
+Supported: 1
+Description: This is the 22.04 LTS release
+Release-File: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/Release
+ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
+UpgradeTool: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/main/dist-upgrader-all/current/impish.tar.gz
+UpgradeToolSignature: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/main/dist-upgrader-all/current/impish.tar.gz.gpg
