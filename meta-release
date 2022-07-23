@@ -360,7 +360,7 @@ Dist: hirsute
 Name: Hirsute Hippo
 Version: 21.04
 Date: Thu, 22 April 2021 21:04:00 UTC
-Supported: 0
+Supported: 1
 Description: This is the 21.04 release
 Release-File: http://archive.ubuntu.com/ubuntu/dists/hirsute-updates/Release
 ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
@@ -371,32 +371,9 @@ Dist: impish
 Name: Impish Indri
 Version: 21.10
 Date: Thu, 14 October 2021 21:10:00 UTC
-Supported: 0
+Supported: 1
 Description: This is the 21.10 release
 Release-File: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/Release
 ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
 UpgradeTool: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/main/dist-upgrader-all/current/impish.tar.gz
 UpgradeToolSignature: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/main/dist-upgrader-all/current/impish.tar.gz.gpg
-
-Dist: jammy
-Name: Jammy Jellyfish
-Version: 22.04 LTS
-Date: Thu, 21 April 2022 22:04:00 UTC
-Supported: 1
-Description: This is the 22.04 LTS release
-Release-File: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/Release
-ReleaseNotes: http://changelogs.ubuntu.com/EOLReleaseAnnouncement
-UpgradeTool: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/main/dist-upgrader-all/current/impish.tar.gz
-UpgradeToolSignature: https://old-releases.ubuntu.com/ubuntu/dists/impish-updates/main/dist-upgrader-all/current/impish.tar.gz.gpg
-
-Dist: jammy
-Name: Jammy Jellyfish
-Version: 22.04 LTS
-Date: Thu, 21 April 2022 22:04:00 UTC
-Supported: 1
-Description: This is the 22.04 LTS release
-Release-File: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/Release
-ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
-ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
-UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/jammy.tar.gz
-UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/main/dist-upgrader-all/current/jammy.tar.gz.gpg
